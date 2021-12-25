@@ -44,7 +44,6 @@
 
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0788eb4a-e9de-44b5-9fa6-436fe2358c87/_2021-04-24__10.57.23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0788eb4a-e9de-44b5-9fa6-436fe2358c87/_2021-04-24__10.57.23.png)
 
-
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49731eca-63c5-4a2d-ab14-f895d1602432/_2021-04-24__10.57.29.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49731eca-63c5-4a2d-ab14-f895d1602432/_2021-04-24__10.57.29.png)
 
 ### LinkedList
@@ -73,5 +72,4 @@
 ## 참고 출처
 
 [https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer Science/Data Structure/Array vs ArrayList vs LinkedList.md](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array%20vs%20ArrayList%20vs%20LinkedList.md)
-
 [https://www.nextree.co.kr/p6506/](https://www.nextree.co.kr/p6506/)
