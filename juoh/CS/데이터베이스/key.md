@@ -7,7 +7,6 @@
 ### 키란?
 
 - 키(Key)는 데이터베이스에서 조건에 만족하는 튜플을 찾거나 순서대로 정렬할 때 다른 튜플들과 구별할 수 있는 유일한 기준이 되는 Attribute(속성)
-
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf43a92-4b19-4c71-8749-75390a4c178d/Untitled.png)
 
 ### **Super Key (슈퍼키)**
@@ -39,5 +38,4 @@
 - 외래키는 중복과 널값을 가질수 있다. (후보키에 속하지 않기 때문)
 
 ## 참고 출처
-
 [https://ooeunz.tistory.com/3](https://ooeunz.tistory.com/3)
