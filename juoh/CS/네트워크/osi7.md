@@ -113,7 +113,6 @@
 # TCP/IP 4계층
 
 ![https://media.vlpt.us/images/inyong_pang/post/b6748747-d891-46e6-88cd-268f7497a40b/image.png](https://media.vlpt.us/images/inyong_pang/post/b6748747-d891-46e6-88cd-268f7497a40b/image.png)
-
 ![https://media.vlpt.us/images/inyong_pang/post/35109cfa-b496-4203-998a-bbf099a05387/image.png](https://media.vlpt.us/images/inyong_pang/post/35109cfa-b496-4203-998a-bbf099a05387/image.png)
 
 - ARPANET이 개발된 이후 현재의 인터넷으로 발전해나가는 과정에서 대부분의 데이터 통신이 TCP와 IP기반으로 이루어졌기 때문에 인터넷 프로토콜 그 자체를 표현하는 용어
