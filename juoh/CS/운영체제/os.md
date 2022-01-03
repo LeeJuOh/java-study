@@ -7,7 +7,6 @@
 - 운영체제는 컴퓨터의 `성능`을 높이고(performance), 사용자에게 `편의성 제공`(Convenience)을 목적으로 하는 컴퓨터 하드웨어 관리하는 프로그램이다.
 - the one program running at all times on the computer
 - usually called the kernel.
-
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/833c35cf-15ff-4156-b423-20521d17f80f/_2021-04-24__12.18.04.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/833c35cf-15ff-4156-b423-20521d17f80f/_2021-04-24__12.18.04.png)
 
 - 운영체제는 크게 커널(kernel)과 명령어 해석기(Command interpreter, shell)로 나뉜다.
